@@ -1,12 +1,12 @@
 # Hi — I'm Ehsan Ali 👋
 
-**Flutter Dev • Open Source • Building [TripTrek](https://github.com/originehsan/TripTrek) & exploring ML**
+**Flutter Dev • Open Source • Building [TripTrek](https://github.com/originehsan/TripTrek) & exploring Node jsq**
 
 ---
 
 ## 🔭 Current Focus
 - 🚀 Building mobile apps with **Flutter**
-- 📚 Leveling up in **System Design & Algorithms**
+- 📚 Leveling up in **Data Structures & Algorithms**
 - 🤖 Exploring **Node js**
 
 ---
@@ -26,5 +26,6 @@
 
 ---
 ✨ *Always building, always learning.*  
+
 
 
