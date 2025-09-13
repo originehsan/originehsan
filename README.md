@@ -1,6 +1,6 @@
 # Hi — I'm Ehsan Ali 👋
 
-**Flutter Dev • Open Source • Building [TripTrek](https://github.com/originehsan/TripTrek) & exploring Node jsq**
+**Flutter Dev • Open Source • Building [TripTrek](https://github.com/originehsan/TripTrek) & exploring Node js**
 
 ---
 
@@ -26,6 +26,7 @@
 
 ---
 ✨ *Always building, always learning.*  
+
 
 
 
