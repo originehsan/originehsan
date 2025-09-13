@@ -22,10 +22,11 @@
 
 ## 📫 Contact
 - 📧 Email: **originehsan@gmail.com**  
-- 💼 LinkedIn: [www.linkedin.com/in/ehsan_7x](https://linkedin.com/in/ehsan_7x)  
+- 💼 LinkedIn: [ehsan_7x](www.linkedin.com/in/ehsan-7x)  
 
 ---
 ✨ *Always building, always learning.*  
+
 
 
 
