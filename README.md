@@ -2,9 +2,14 @@
   <img height="320" width="600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=650&lines=Hi+I'm+Ehsan+Ali;Flutter+Developer;Data+Structures+%26+Algorithms;Backend+(Go)+Learner;Building+AlgoLens" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=originehsan.originehsan" />
@@ -18,7 +23,7 @@ Flutter Developer | Data Structures & Algorithms | Backend (Go) Learner
 
 ## About Me
 
-I focus on building scalable mobile applications using Flutter while continuously improving problem-solving skills through Data Structures and Algorithms. Currently developing AlgoLens and learning backend development with Go to strengthen full-stack engineering capabilities.
+I focus on building scalable Flutter applications while strengthening my problem-solving skills through Data Structures and Algorithms. Currently developing AlgoLens and learning backend development using Go to improve full-stack engineering capabilities.
 
 ---
 
@@ -26,7 +31,7 @@ I focus on building scalable mobile applications using Flutter while continuousl
 
 - Building AlgoLens (competitive programming helper platform)
 - Practicing DSA using Striver Sheet, LeetCode, and CodeChef
-- Learning backend engineering using Go
+- Learning backend engineering with Go
 - Improving clean architecture in Flutter applications
 
 ---
@@ -42,10 +47,14 @@ I focus on building scalable mobile applications using Flutter while continuousl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+---
+
 ### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
 
 ### Backend & APIs
 
@@ -53,23 +62,31 @@ I focus on building scalable mobile applications using Flutter while continuousl
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### Tools & Platforms
+---
 
+### Developer Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
 
 ### Operating System
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Problem Solving
+---
+
+### Core Concepts
 
 ![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-ED8B00?style=for-the-badge)
+![Object Oriented Programming](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge)
 
 ---
 
