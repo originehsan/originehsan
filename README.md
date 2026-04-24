@@ -1,7 +1,9 @@
 <div align="center">
+  <img height="320" width="600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Hi+I'm+Ehsan+Ali;Flutter+Developer;DSA+Learner;Backend+(Go)+Explorer;Building+AlgoLens" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=650&lines=Hi+I'm+Ehsan+Ali;Flutter+Developer;Data+Structures+%26+Algorithms;Backend+(Go)+Learner;Building+AlgoLens" />
 </div>
 
 <div align="center">
@@ -16,7 +18,7 @@ Flutter Developer | Data Structures & Algorithms | Backend (Go) Learner
 
 ## About Me
 
-I am focused on building scalable mobile applications using Flutter while continuously improving problem-solving skills through Data Structures and Algorithms. Currently developing AlgoLens and learning backend development with Go to strengthen full-stack engineering capabilities.
+I focus on building scalable mobile applications using Flutter while continuously improving problem-solving skills through Data Structures and Algorithms. Currently developing AlgoLens and learning backend development with Go to strengthen full-stack engineering capabilities.
 
 ---
 
@@ -95,7 +97,9 @@ AlgoLens is a competitive programming helper platform designed to support struct
 
 ## Contribution Graph Animation
 
-<img src="https://github.com/originehsan/originehsan/blob/output/snake.svg"/>
+<div align="center">
+  <img src="https://github.com/originehsan/originehsan/blob/output/snake.svg"/>
+</div>
 
 ---
 
