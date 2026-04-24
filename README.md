@@ -1,35 +1,63 @@
-# Hi — I'm Ehsan Ali 👋
+<div align="center">
+  <img height="320" width="600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+</div>
 
-**Flutter Dev • Open Source • Building [TripTrek](https://github.com/originehsan/TripTrek) & exploring Golang **
+<h1 align="center">Hi, I'm Ehsan Ali</h1>
 
----
-
-## 🔭 Current Focus
-- 🚀 Building mobile apps with **Flutter**
-- 📚 Leveling up in **Data Structures & Algorithms**
-- 🤖 Exploring **Node js**
-
----
-
-## 🛠 Tech Stack
-- **Languages:** Dart • Java • Python • SQL  
-- **Frameworks & Tools:** Flutter • Firebase • SQLite • Git • GitHub Actions  
+<h3 align="center">
+Flutter Developer | DSA Learner | Backend (Go) Explorer | Building AlgoLens
+</h3>
 
 ---
 
-## 🚀 Featured Projects [**TripTrek**](https://github.com/originehsan/TripTrek) — Route planner with rewards system  
-- 💰 [**ExpenseTracker**] — Smart expense manager with analytics  
+### About Me
 
-## 📫 Contact
-- 📧 Email: **originehsan@gmail.com**  
-- 💼 LinkedIn: [ehsan_7x](www.linkedin.com/in/ehsan-7x)  
+I am focused on building scalable Flutter applications and improving problem-solving skills through Data Structures and Algorithms. Currently working on AlgoLens and learning backend development using Go to strengthen full-stack engineering skills.
 
 ---
-✨ *Always building, always learning.*  
 
+### Current Focus
 
+- Building AlgoLens (competitive programming helper platform)
+- Practicing DSA using Striver Sheet, LeetCode, and CodeChef
+- Learning backend development with Go
+- Improving Flutter architecture and API integration skills
 
+---
 
+### Languages and Tools
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</p>
 
+---
 
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=originehsan&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=originehsan&show_icons=true&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originehsan&layout=compact&theme=dark"/>
+
+</div>
+
+---
+
+### Contribution Animation
+
+<img src="https://github.com/originehsan/originehsan/blob/output/snake.svg"/>
+
+---
